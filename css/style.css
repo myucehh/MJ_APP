@@ -1,0 +1,23 @@
+body{
+
+}
+.menuItem{
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+}
+
+.addDetail{
+    background-color: white;
+    margin-left: auto;
+    top: 300px;
+    margin-right: auto;
+    left:0;
+    right:0;
+    width:400px;
+    border: 2px solid black;
+    position: absolute;
+    
+}
+.addDetail h1, h2, h3{
+    display: inline;
+}
